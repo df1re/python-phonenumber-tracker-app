@@ -53,4 +53,3 @@ If you find it useful, you can give it a star and share with your fellow peers o
 Credits
 -----------
 All the credits to [kalebu](github.com/kalebu)
-
